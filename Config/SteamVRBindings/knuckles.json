@@ -31,23 +31,23 @@
 				},
 				{
 					"mode": "trigger",
-					"path": "/user/hand/right/input/grip",
-					"inputs":
-					{
-						"click":
-						{
-							"output": "/actions/main/in/GripRight"
-						}
-					}
-				},
-				{
-					"mode": "trigger",
 					"path": "/user/hand/left/input/grip",
 					"inputs":
 					{
 						"click":
 						{
-							"output": "/actions/main/in/GripLeft"
+							"output": "/actions/main/in/InkSkill 1"
+						}
+					}
+				},
+				{
+					"mode": "trigger",
+					"path": "/user/hand/right/input/grip",
+					"inputs":
+					{
+						"click":
+						{
+							"output": "/actions/main/in/InkSkill 2"
 						}
 					}
 				}

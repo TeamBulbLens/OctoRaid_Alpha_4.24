@@ -86,11 +86,15 @@
 			"type": "boolean"
 		},
 		{
-			"name": "/actions/main/in/GripRight",
+			"name": "/actions/main/in/InkSkill 1",
 			"type": "boolean"
 		},
 		{
-			"name": "/actions/main/in/GripLeft",
+			"name": "/actions/main/in/InkSkill 2",
+			"type": "boolean"
+		},
+		{
+			"name": "/actions/main/in/InkSkill 3",
 			"type": "boolean"
 		}
 	],
@@ -210,8 +214,9 @@
 			"/actions/main/in/open_console": "Open Console",
 			"/actions/main/in/TriggerRight": "TriggerRight",
 			"/actions/main/in/TriggerLeft": "TriggerLeft",
-			"/actions/main/in/GripRight": "GripRight",
-			"/actions/main/in/GripLeft": "GripLeft",
+			"/actions/main/in/InkSkill 1": "InkSkill 1",
+			"/actions/main/in/InkSkill 2": "InkSkill 2",
+			"/actions/main/in/InkSkill 3": "InkSkill 3",
 			"/actions/main": "Main Game Actions"
 		}
 	]
